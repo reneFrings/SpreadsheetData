@@ -1,6 +1,6 @@
 /**
  * SpreadsheetData v1.0
- * Check API URL and request and returns spreadsheet data as an objekt array
+ * Check API URL and request and returns spreadsheet data as an object array
  * Copyright (c) 2024 René Frings
  * License: GNU Affero General Public License v3.0
  */
