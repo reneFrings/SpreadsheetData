@@ -21,6 +21,8 @@ Load data from a google spreadsheet and get the data as an object array.
 ## Result
 ![2024-03-16_20h20_36](https://github.com/reneFrings/SpreadsheetData/assets/62351899/f4c1e66d-4103-40d2-b7f5-9a996943a58d)
 
+![2024-03-16_20h33_06](https://github.com/reneFrings/SpreadsheetData/assets/62351899/65ab1c6a-6ac0-4dde-8729-ea3948f36f6c)
+
 # Please first share the spreadsheet so that anyone who has the link can open it.
 
 ![spreadsheet-share](https://user-images.githubusercontent.com/62351899/142073193-6606a6a6-30cd-4b23-a30a-a754804d7bcd.jpg)
